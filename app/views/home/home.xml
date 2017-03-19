@@ -1,0 +1,13 @@
+<Page loaded="pageLoad">
+    <StackLayout orientation="vertical" >
+    <Image src="~/images/vec.png" width="100" highth="100"></Image>
+        <Label horizontalAlignment="center" style="color:darkred" text="ระบบบันทึกกิจกรรม Homeroom"/>
+        <TextField  id="email" class="email"  hint="รหัสประจำตัวประชาชน"/>
+        <TextField id="pass" hint="รหัสผ่าน"/>
+        <Button class="email" text="เข้าสู่ระบบ" tap="goStudent"/>
+        <Button text="ออกจากระบบ" tap="exitApp"/>
+        <Label horizontalAlignment="center" style="color:darkred" text="ผู้จัดทำ"/>
+        <Label  text="นายจรูญ  จงกลกลาง วช.สารพัดช่างชัยภูมิ"/>
+        <Label  text="นายวิศรุต  ไวโสภา วท.ท่าหลวงซิเมนต์ไทยอนุสรณ์"/>
+        </StackLayout>
+</Page>

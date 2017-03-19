@@ -1,0 +1,11 @@
+<Page loaded="pageLoad">
+    <StackLayout orientation="vertical" >
+        <Label horizontalAlignment="center" style="color:darkred" text="เลือกกลุ่มนักเรียน นักศึกษา"/>
+        <Button text="ปวช.1 สาขาวิชาเทคโนโลยีสารสนเทศ" tap="goForm"/>
+        <Button text="ปวช.2 สาขาวิชาเทคโนโลยีสารสนเทศ" tap="goForm"/>
+        <Button text="ปวช.3 สาขาวิชาเทคโนโลยีสารสนเทศ" tap="goForm"/>
+        <Button text="ปวส.1 สาขาวิชาเทคโนโลยีสารสนเทศ" tap="goForm"/>
+        <Button text="ปวส.2 สาขาวิชาเทคโนโลยีสารสนเทศ" tap="goForm"/>        
+        <Button text="ย้อนกลับ" tap="goBack"/>
+    </StackLayout>
+</Page>

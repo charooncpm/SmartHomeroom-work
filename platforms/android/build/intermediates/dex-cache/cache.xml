@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Project\Homeroom\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.0_de5ccc91f956b3aa08f925a672cc47f921537262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\Homeroom\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8b9d98ad89b1c3721afc753d67c581f43191cb9">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_409f123796008a329b1a923051265779dec7ecab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\Homeroom\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.0_17273613680392b1c4800ff983f8ec6d547346ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\Homeroom\platforms\android\build\intermediates\exploded-aar\homeroom\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bbf23f78c0e92e11a9805b9fb54bab3810ca30da">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_876b6cd1ed2cd320b8740e07278750a5fa8f7d35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\Homeroom\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.0_f919e7a7d611f362ca94dc4ffecfc14e4639ac32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.0_f33cec86cb85d3eef537b35878e7ffdf18f5aede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\Homeroom\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.0_8465c84056e96540a0ddbd2e9a308bd0fe9d889c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\Homeroom\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.0_78d4802b6f36b99d05cf6a1eac703cae943f76a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\Homeroom\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.0_0b5ef0899d577ea682c1381ac711e5f29bbb1692.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\Homeroom\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.0_295943efd8168dc37f2cbec0c3e1ae36139c31a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\Homeroom\platforms\android\build\intermediates\exploded-aar\homeroom\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c352a6bc5afb35f4b9355beb4df346c36d96b415">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\homeroom-runtime-unspecified_33314bd9dfeb48d2f1ba8bdc6f5dedd8dae7e9e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\Homeroom\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.0_a1448f4eee1846772544ff6cb81aad8525384ba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\Homeroom\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.0_9d38e91db343e1db971954f1e249161bc727ff63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\Homeroom\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.0_37d2af81c2e738de0d2401aa52c8c9b6d963f57a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\Homeroom\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.0_94809114e6a77f7aa5b7727744d4fbc69954109b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project\Homeroom\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="D:\Project\Homeroom\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.0_b3050962824282cae0f3352c85edf93a20077caa.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Project\\Homeroom\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\ic_menu_delete.png",
+        "source": "D:\\Project\\Homeroom\\platforms\\android\\src\\main\\res\\drawable-ldpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "D:\\Project\\Homeroom\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\logo.png",
+        "source": "D:\\Project\\Homeroom\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Project\\Homeroom\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\icon.png",
+        "source": "D:\\Project\\Homeroom\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]

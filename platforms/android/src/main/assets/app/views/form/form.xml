@@ -1,0 +1,24 @@
+<Page loaded="pageLoad">
+   <StackLayout orientation="vertical" >
+        <Label text="วัน/เดือน/ปี"/>
+        <TextField id="date" hint="25/12/2560"/>
+        <Label text="ผู้ไม่มาร่วมกิจกรรม Homeroom"/>
+        <TextField id="date"  hint="ผู้ไม่มาร่วมกิจกรรม Homeroom"/>
+        <Label text="เรื่องที่ให้คำแนะนำ"/>
+        <TextField id="date"  hint="เรื่องที่ให้คำแนะนำ"/>
+        <Button text="บันทึกข้อมูล" tap="goSave"/>
+        <Button text="บันทึกภาพกิจกรรม" tap="takePhoto"/>        
+        <Button text="ย้อนกลับ" tap="goStudent"/>               
+    </StackLayout>
+        
+        
+        
+        
+        
+        
+        
+        
+ <!--       <Label horizontalAlignment="center" bgcolor="yellow" style="color:black" text="บันทึกกิจกรรม Homeroom"/>
+        <TextField id="date" hint="วัน/เดือน/ปี"/>
+        <Button  text="ย้อนกลับ" tap="goStudent"/>-->
+</Page>
